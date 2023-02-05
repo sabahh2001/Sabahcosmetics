@@ -1,0 +1,42 @@
+.Heading{
+    margin-bottom: 0px;
+    font-family: 'Aboreto';
+    background-color: rgb(243, 185, 165);
+    font-weight: 1000;
+}
+.slogan{
+    font-size: 80%;
+    margin-top: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.Paragraph{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.emailbutton{
+    background-color: rgb(247, 203, 188);
+    color: white;
+    border: none;
+    padding: 10px 10px ;
+    border-radius: 10px;
+}
+.emailbutton:hover{
+    background-color: black;
+    padding: 10px 10px ;
+    border-radius: 10px;
+}
+.passbutton{
+    border: none;
+    background-color: rgb(247, 203, 188) ;
+    color: white;
+    padding: 10px 10px ;
+    border-radius: 10px;
+    
+}
+.passbutton:hover{
+    background-color: black;
+    padding: 10px 10px ;
+    border-radius: 10px;
+}
+    
